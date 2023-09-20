@@ -7,10 +7,6 @@ npm install
 npm run dev
 ```
 
-## TODO
-
-- Diagonal check not implemented
-
 ## Possible additions
 
 - Make it prettier
